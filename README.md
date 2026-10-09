@@ -65,10 +65,6 @@
   Lightweight and non-intrusive extension for the card game [Wiki Masters](https://www.wiki-masters.com/) to track average market prices and sort card collections.  
   🛠 Stack: JavaScript, CSS, WebExtensions API
 
-- **[Crema (CremArt)](https://github.com/Kitsoune/crema)** • *Image Processing Web App*  
-  A creative web application transforming photos into stylized latte art visual representations.  
-  🛠 Stack: JavaScript, HTML5 Canvas, CSS
-
 ---
 
 ### 🤖 Discord Bots & Apps
